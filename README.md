@@ -26,7 +26,7 @@
 
 
 <p>
-	<p> Nesse mini projeto irei utilizar o dataset criado pelo IMDb que contém uma lista de filmes com pontuação de 6 ou mais, além de informações como orçamento, gastos bruto e gênero, de 2006 até 2016. </p>
+	<p> Esse mini projeto foi proposto pela 'Academia Mulheres in Tech Data Engineer- Azure' programa feito pela Accenture em parceria com a GAMA Academy, o objetivo geral era criar um script de Python para ler um CSV e até ajusta-lo caso necessário e depois integrar com o Power BI. Sendo assim, irei utilizar o dataset criado pelo IMDb que contém uma lista de filmes com pontuação de 6 ou mais, além de informações como orçamento, gastos bruto e gênero, de 2006 até 2016. </p>
     
   <p> Esse projeto será composto por alguns passos com ajustes do dataset, análise e aplicação no Power BI e para resultado final criarei e apresentarei com essas análises um dashboard de dados para que todos possam ter acesso aos principais dados e análises relacionados a esses filmes  </p>
 	
