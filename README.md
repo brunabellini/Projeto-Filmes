@@ -54,11 +54,9 @@ Abaixo você encontra o link do repositório com todos os dados até então cole
 	<li>https://github.com/brunabellini/Projeto-Filmes-Academia-Accenture</li>
 </ul>
 
-Se desejar ir direto para a parte na qual o projeto, dados, passo a passo de limpeza, implementação do Python no Power BI e criação do Dashboard é realizado, clique no link abaixo:
+Se desejar ir direto para a parte na qual o projeto, dados, passo a passo de limpeza, implementação do Python no Power BI e criação do Dashboard é realizado, <a href="https://github.com/brunabellini/Projeto-Filmes-Academia-Accenture/blob/master/projeto_filmes.ipynb">clique aqui!</a>
 
-<ul>
-	<li>https://github.com/brunabellini/Projeto-Filmes-Academia-Accenture/blob/master/projeto_filmes.ipynb</li>
-</ul>
+<br />
 
 <strong>Visualização do dashboard final</strong>
 
